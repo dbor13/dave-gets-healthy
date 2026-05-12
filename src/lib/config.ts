@@ -1,10 +1,10 @@
 export const TARGETS = {
-  calories: 1700,
+  calories: 1650,
   protein: 175,
   carbs: 120,
   fat: 55,
   goalWeight: 170,
-  startWeight: 185,
+  startWeight: 184.2,
 }
 
 export const MEAL_TYPES = [
